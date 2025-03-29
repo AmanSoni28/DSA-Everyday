@@ -1,4 +1,7 @@
-/* topic link : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+// topic link : https://www.geeksforgeeks.org/problems/find-missing-and-repeating2512/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card
+
+#include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
     public:
@@ -44,4 +47,4 @@ class Solution {
       vec.push_back(a);
       return vec;
       }
-  };                                                                */
+  };                                                                

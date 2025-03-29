@@ -1,4 +1,7 @@
-/* topic link: https://leetcode.com/problems/third-maximum-number/
+// topic link: https://leetcode.com/problems/third-maximum-number/
+
+#include<bits/stdc++.h>
+using namespace std;
 
 class Solution {
     public:
@@ -22,4 +25,4 @@ class Solution {
          else 
          return vec[0];
         }
-    };                         */
+    };                         

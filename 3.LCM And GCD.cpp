@@ -1,5 +1,8 @@
 //    topic link : https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1?page=1
 
+#include<bits/stdc++.h>
+using namespace std;
+
   class Solution {
     public:
       vector<int> lcmAndGcd(int a, int b) {

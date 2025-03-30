@@ -9,32 +9,24 @@ class Solution {
      sort(arr.begin(),arr.end());
     int n=arr.size(),a,b;
     vector<int>vec;
-      for(int i=1;i<=n;i++)
-      {
-          if(i!=n){
-            if(i==arr[i-1]||i==arr[i]) 
-            continue;
-            else
-            a=i;
-            break;
-          }
-          else
-          {
-            if(i==arr[i-1])
-            continue;
-            else
-            a=i;
-            break;
-          }
-      }
-      
+  
       for(int i=0;i<n;i++)
       {
-           if(arr[i]==arr[i+1]){
+           if(arr[i]==arr[i+1]){      //for repeating
               b=arr[i];
               break;
           }
       }
+      
+      int sum=0,nanuralSum=0;
+      
+       for(int i=0;i<n;i++){               //for missing
+        sum=sum+arr[i];
+        nanuralSum=nanuralSum+(i+1);
+        }
+      int finalSum = sum-b;
+      a=nanuralSum-finalSum;
+      
     vec.push_back(b);
     vec.push_back(a);
     return vec;

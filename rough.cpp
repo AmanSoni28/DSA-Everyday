@@ -5,7 +5,8 @@ int main()
 {
 string str="AMAN";
 
-cout<<str[2];
+sort(str.begin(),str.end());
+cout<<str;
 
 
 }

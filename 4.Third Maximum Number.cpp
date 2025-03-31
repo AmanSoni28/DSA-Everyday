@@ -1,7 +1,7 @@
 // topic link: https://leetcode.com/problems/third-maximum-number/
 
-#include<bits/stdc++.h>
-using namespace std;
+.h>
+using namespace std;#include<bits/stdc++
 
 class Solution {
     public:

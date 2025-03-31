@@ -8,8 +8,8 @@ class Solution {
         bool isAnagram(string s, string t) {
             sort(s.begin(),s.end());
             sort(t.begin(),t.end());
-            int n=s.size();
-            int m=t.size();
+            int n=s.size();          //or s.length()
+            int m=t.size();          //or t.length()
             int c=0;
             if(n!=m)
             return false;

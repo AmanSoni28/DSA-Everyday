@@ -4,6 +4,7 @@
 using namespace std;
 
 // t(c)=>O(n), s(c)=>O(n)
+// Prefix-Suffix
 class Solution {
     public:
         vector<int> productExceptSelf(vector<int>& nums) {

@@ -8,7 +8,7 @@ class Solution {
     public:
         int countPrimes(int n) {
             int count=0;
-            vector<int>vec(n,true);
+            vector<int>vec(n,true);              //vector=> size=n, value in every index is true
             for(int i=2;i<n;i++){
                 if(vec[i]==true){
                     count++;

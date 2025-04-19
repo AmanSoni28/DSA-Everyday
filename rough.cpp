@@ -24,3 +24,5 @@ cout<<i;
 
 
 
+// copy me krna h
+// 28->string,hashing

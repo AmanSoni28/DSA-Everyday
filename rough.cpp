@@ -1,28 +1,10 @@
 #include<bits/stdc++.h>
+// #include<math.h>
 using namespace std;
 
 int main()
 {
-string str="AMAN";
-
-// sort(str.begin(),str.end());
-// // cout<<str;
-// cout<<str[2];
-
-vector<char>a;
-for(char i: str){
-    a.push_back(i);
-}
-for(char i: a){
-cout<<i;
-}
-
+int x=log(567)/log(4);
+cout<<x;
 
 }
-
-
-
-
-
-// copy me krna h
-// 28->string,hashing

@@ -6,3 +6,18 @@
 // 10=>very IMP => convert (int->string) and (string->int) , and different Approches
 // 14=>roman to int
 // 28=>hashing,string
+// 34=>log concept(copy)
+// 37=> set functio(copy)
+
+
+
+
+
+
+// copy me krna h
+// 28->string,hashing
+
+//<----not important---->
+//34,35
+
+

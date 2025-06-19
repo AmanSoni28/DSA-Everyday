@@ -18,6 +18,6 @@
 // 28->string,hashing
 
 //<----not important---->
-//34,35
+//32(already copy),33,35,36,38,39(already copy)
 
 

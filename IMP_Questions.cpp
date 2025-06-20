@@ -7,7 +7,8 @@
 // 14=>roman to int
 // 28=>hashing,string
 // 34=>log concept(copy)
-// 37=> set functio(copy)
+// 37=>set functio(copy)
+// 41=>use find_last_not_of(' ');  
 
 
 
@@ -18,6 +19,6 @@
 // 28->string,hashing
 
 //<----not important---->
-//32(already copy),33,35,36,38,39(already copy)
+//32(already copy),33,35,36,38,39(already copy),40
 
 

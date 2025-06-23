@@ -6,9 +6,12 @@
 // 10=>very IMP => convert (int->string) and (string->int) , and different Approches
 // 14=>roman to int
 // 28=>hashing,string
+// 32(already copy)
 // 34=>log concept(copy)
 // 37=>set functio(copy)
+// 39(already copy)
 // 41=>use find_last_not_of(' ');  
+
 
 
 
@@ -19,6 +22,6 @@
 // 28->string,hashing
 
 //<----not important---->
-//32(already copy),33,35,36,38,39(already copy),40
+//33,35,36,38,40,42,44
 
 

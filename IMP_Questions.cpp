@@ -25,7 +25,7 @@
 // 28->string,hashing
 
 //<----not important---->
-//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,
+//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,62,63(.find())
 
 
 //Re-Solve for reduce time Complexity

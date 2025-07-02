@@ -10,7 +10,7 @@ using namespace std;
  *			      1 if num is lower than the picked number
  *               otherwise return 0
  * int guess(int num);
- */
+//  */
 
 class Solution {
 public:

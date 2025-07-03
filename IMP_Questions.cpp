@@ -5,6 +5,7 @@
 // 9=> Use ASCII value , example : int(A)=65,  char(65)=A
 // 10=>very IMP => convert (int->string) and (string->int) , and different Approches
 // 14=>roman to int
+// 27=>string
 // 28=>hashing,string
 // 32(already copy)
 // 34=>log concept(copy)

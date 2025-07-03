@@ -4,7 +4,8 @@ using namespace std;
 
 int main()
 {
-int x=log(567)/log(4);
-cout<<x;
+string str="";
+str+="nm";
+cout<<str+1;
 
 }

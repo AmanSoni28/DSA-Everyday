@@ -25,7 +25,7 @@ public:
         int sum=0;
         for(int i=0;i<mat.size();i++){     
             sum+=mat[i][i];                            //for primary diagonal
-            if(i!=(mat.size()-1-i))                    //for skik i=i
+            if(i!=(mat.size()-1-i))                    //for skip i=i
             sum+=mat[i][mat.size()-1-i];               //for seconadry diagonal
         }
         return sum;

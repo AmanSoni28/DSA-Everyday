@@ -15,6 +15,9 @@
 // 51=>Hashing
 // 54=>isupper(),islower(),is digit()
 // 60=>Dutch National Flag
+// 63=>.find()
+// 64=>2D array
+// 65=>very imp     note: char('a'+1)='b'
 
 
 
@@ -25,7 +28,7 @@
 // 28->string,hashing
 
 //<----not important---->
-//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,62,63(.find())
+//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,62,66,67
 
 
 //Re-Solve for reduce time Complexity

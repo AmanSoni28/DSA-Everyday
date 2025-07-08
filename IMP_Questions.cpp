@@ -5,6 +5,7 @@
 // 9=> Use ASCII value , example : int(A)=65,  char(65)=A
 // 10=>very IMP => convert (int->string) and (string->int) , and different Approches
 // 14=>roman to int
+// 19=>string,hashing,slidingWindow
 // 27=>string
 // 28=>hashing,string
 // 32(already copy)
@@ -31,4 +32,4 @@
 
 
 //Re-Solve for reduce time Complexity
-//46,55,61
+//46,55,61, leetcode 34 question(binary search)

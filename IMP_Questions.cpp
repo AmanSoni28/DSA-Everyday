@@ -21,12 +21,13 @@
 // 65=>very imp     note: char('a'+1)='b'
 // 73=>2D array
 // 74=>Excel Sheet (very IMP)
+// 78=>string,hashing
 
 
 
 
 //<----not important---->
-//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,62,66,67,68,71(hashing),75,76
+//33,35,36,38,40,42,44,48,53,56(hashing),57(hashing),58,59,62,66,67,68,71(hashing),75,76,77
 
 
 //Re-Solve for reduce time Complexity
